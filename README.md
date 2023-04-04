@@ -7,6 +7,7 @@ Los códigos realizados tienen como base consulta a la documentación de la libr
 **Video:** Una pequeña muestra de resultados de DeepQ (Reinforcement Learning)
 [[Link video youtube]](https://youtube.com/shorts/mnR2g9tkh4k)
 
+
 Principales fuentes consultadas o de material extraido como imagenes u otra forma:
   1) Aurélien Géron (O'Reilly) : Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow
   2) Andreas C. Müller and Sarah Guido (O'Reilly): Introduction to Machine Learning with Python A Guide for Data Scientists
