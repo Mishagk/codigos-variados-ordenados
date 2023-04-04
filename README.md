@@ -23,10 +23,11 @@ Principales fuentes consultadas o de material extraido como imagenes u otra form
   12) pyAF
   13) surprise (**En sistemas de recomendación se recomienda este - ver notebook**)
   14) tensorflow-recommenders
-  15) Gym (Reinforcement Learning)
-  16) modelo YOLO - Computer Vision (Segun modelo pre-entrenados de Ultralytics)
-  17) otras librerias/repositorios/blogs/foros vinculados a los enlaces previos
-  18) Dataset usados de páginas como Kaggle
+  15) Keras-RL (Reinforcement Learning)
+  16) Gym (Reinforcement Learning)
+  17) modelo YOLO - Computer Vision (Segun modelo pre-entrenados de Ultralytics)
+  18) otras librerias/repositorios/blogs/foros vinculados a los enlaces previos
+  19) Dataset usados de páginas como Kaggle
 
 **Nota**: En algunos casos puede que se deba modificar el código debido a cambios en la libreria en versiones nuevas, generandose alguna incompatibilidad
 que genere algún error en caso de ejecutarse.
