@@ -2,7 +2,7 @@ El presente repositorio contiene una serie de notebooks (jupyter notebook) con c
 
 **Importante**: El numero del notebook indica si es reciente o no, por ejemplo si tenemos los notebooks **"4. DeepL Learning"** y **"7. Catboost regression"**, el notebook con número **7** es el más reciente agregado al repositorio. 
 
-Los códigos realizados tienen como base consulta a la documentación de la libreria, incluyendo su uso y ejemplos, así como algún libro, foros o blogs vinculados a la aplicación del mismo. En los notebooks cuando se utilizan datos específicos se dejará alguna forma de poder ubicar los datos desde su origen, es decir, mediante el link al repositorio fuente, la pagina web, el nombre del dataset u similar.
+Los códigos realizados tienen como base consulta a la documentación de la libreria, incluyendo su uso y ejemplos, así como algún libro, foros o blogs vinculados a la aplicación del mismo. En los notebooks cuando se utilizan datos específicos se dejará alguna forma de poder ubicar los datos desde su origen, es decir, mediante el link al repositorio fuente, la pagina web, incluso con el nombre del dataset se podría buscar en internet u similar.
 
 **Video:** Una pequeña muestra de resultados de DeepQ (Reinforcement Learning)
 [[Link video youtube]](https://youtube.com/shorts/mnR2g9tkh4k)
