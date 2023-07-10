@@ -2,6 +2,9 @@ El presente repositorio contiene una serie de notebooks (jupyter notebook) con c
 
 **Importante**: El numero del notebook indica si es reciente o no, por ejemplo si tenemos los notebooks **"4. DeepL Learning"** y **"7. Catboost regression"**, el notebook con número **7** es el más reciente agregado al repositorio. 
 
+- **Video 1:** Demo experimental con casos de DeepQ (Reinforcement Learning) [[video youtube]](https://youtu.be/oNKAgzEkwlY)
+- **Video 2:** Demo experimental con aplicación de Gradio para Computer Vision ML & DL [[video youtube]](https://youtu.be/5vggRq0rrqo)
+
 Los códigos realizados tienen como base consulta a la documentación de la libreria, incluyendo su uso y ejemplos, así como algún libro, foros o blogs vinculados a la aplicación del mismo. En los notebooks cuando se utilizan datos específicos se dejará alguna forma de poder ubicar los datos desde su origen, es decir, mediante el link al repositorio fuente, la pagina web, incluso con el nombre del dataset se podría buscar en internet u similar.
 
 Principales fuentes consultadas o de material extraido como imagenes u otra forma:
