@@ -4,7 +4,7 @@ El presente repositorio contiene una serie de notebooks (jupyter notebook) con c
 
 Los códigos realizados tienen como base consulta a la documentación de la libreria, incluyendo su uso y ejemplos, así como algún libro, foros o blogs vinculados a la aplicación del mismo. En los notebooks cuando se utilizan datos específicos se dejará alguna forma de poder ubicar los datos desde su origen, es decir, mediante el link al repositorio fuente, la pagina web, incluso con el nombre del dataset se podría buscar en internet u similar.
 
-Principales fuentes consultadas o de material extraido como imagenes u otra forma:
+Principales fuentes consultadas o de material extraido como librerias de python, imagenes u otra forma:
   1) Aurélien Géron (O'Reilly) : Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow
   2) Andreas C. Müller and Sarah Guido (O'Reilly): Introduction to Machine Learning with Python A Guide for Data Scientists
   3) tensorflow.org
