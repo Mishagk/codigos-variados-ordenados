@@ -3,6 +3,7 @@ This repository contains a series of notebooks (jupyter notebook) with consolida
 **Relevant**: The notebook number indicates whether it is recent or not, for example if we have the notebooks "4. Deep Learning" and "7. Catboost regression", the notebook with number 7 is the most recent addition to the repository.
 
 The codes are based on consultation of the library documentation, including its usage and examples, as well as books, forums, or blogs related to its application. In the notebooks, when specific data is used, there will be some way to locate the data from its source, that is, through a link to the source repository, the website, or even with the dataset name that could be searched on the internet or similar.
+
 Main sources consulted or from which material such as Python libraries, images, or other forms were extracted:
 
 - Aurélien Géron (O'Reilly): Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow
