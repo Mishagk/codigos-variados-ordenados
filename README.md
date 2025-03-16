@@ -1,32 +1,29 @@
-El presente repositorio contiene una serie de notebooks (jupyter notebook) con codigos de consolidaciones de varios materiales que permitan aprender y aplicar tanto librerias, tecnicas, metodos y modelos de Machine & Deep Learning. Este repositorio NO posee un fin lucrativo. Su propósito es el aprendizaje abierto con el fin de poder ayudar y fomentar el desarrollo de aplicaciones-soluciones basadas en datos mediante los ejemplos dentro de los códigos expuestos.
+This repository contains a series of notebooks (jupyter notebook) with consolidated code from various materials that allow you to learn and apply libraries, techniques, methods, and models of Machine & Deep Learning. This repository does NOT have a profit-making purpose. Its purpose is open learning in order to help and promote the development of data-based applications and solutions through the examples within the exposed code.
+Important: The notebook number indicates whether it is recent or not, for example if we have the notebooks "4. Deep Learning" and "7. Catboost regression", the notebook with number 7 is the most recent addition to the repository.
+The codes are based on consultation of the library documentation, including its usage and examples, as well as books, forums, or blogs related to its application. In the notebooks, when specific data is used, there will be some way to locate the data from its source, that is, through a link to the source repository, the website, or even with the dataset name that could be searched on the internet or similar.
+Main sources consulted or from which material such as Python libraries, images, or other forms were extracted:
 
-**Importante**: El numero del notebook indica si es reciente o no, por ejemplo si tenemos los notebooks **"4. DeepL Learning"** y **"7. Catboost regression"**, el notebook con número **7** es el más reciente agregado al repositorio. 
+Aurélien Géron (O'Reilly): Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow
+Andreas C. Müller and Sarah Guido (O'Reilly): Introduction to Machine Learning with Python A Guide for Data Scientists
+tensorflow.org
+scikit-learn.org
+tslearn.readthedocs
+scipy
+pycaret
+h2o
+pytorch
+skforecast & statsmodel (For forecasting (time series) this is recommended - see notebook)
+statsforecast
+pyAF
+surprise (For recommendation systems this is recommended - see notebook)
+tensorflow-recommenders
+Keras-RL (Reinforcement Learning)
+Gym (Reinforcement Learning)
+YOLO model - Computer Vision (According to pre-trained models from Ultralytics)
+other libraries/repositories/blogs/forums linked to the previous links
+Datasets used from sites like Kaggle
 
-Los códigos realizados tienen como base consulta a la documentación de la libreria, incluyendo su uso y ejemplos, así como algún libro, foros o blogs vinculados a la aplicación del mismo. En los notebooks cuando se utilizan datos específicos se dejará alguna forma de poder ubicar los datos desde su origen, es decir, mediante el link al repositorio fuente, la pagina web, incluso con el nombre del dataset se podría buscar en internet u similar.
+Note: In some cases, the code may need to be modified due to changes in newer versions of the libraries, generating some incompatibility that may cause an error when executed.
+Caution: Observed cases of potential errors in new versions of libraries
 
-Principales fuentes consultadas o de material extraido como librerias de python, imagenes u otra forma:
-  1) Aurélien Géron (O'Reilly) : Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow
-  2) Andreas C. Müller and Sarah Guido (O'Reilly): Introduction to Machine Learning with Python A Guide for Data Scientists
-  3) tensorflow.org
-  4) scikit-learn.org
-  5) tslearn.readthedocs
-  6) scipy
-  7) pycaret
-  8) h2o
-  9) pytorch
-  10) skforecast & statsmodel (**En forecasting (series de tiempo) se recomienda este - ver notebook**)
-  11) statsforecast
-  12) pyAF
-  13) surprise (**En sistemas de recomendación se recomienda este - ver notebook**)
-  14) tensorflow-recommenders
-  15) Keras-RL (Reinforcement Learning)
-  16) Gym (Reinforcement Learning)
-  17) modelo YOLO - Computer Vision (Segun modelo pre-entrenados de Ultralytics)
-  18) otras librerias/repositorios/blogs/foros vinculados a los enlaces previos
-  19) Dataset usados de páginas como Kaggle
-
-**Nota**: En algunos casos puede que se deba modificar el código debido a cambios en la libreria en versiones nuevas, generandose alguna incompatibilidad
-que genere algún error en caso de ejecutarse.
-
-**Cuidado**: Casos observados de potencial error en versiones nuevas de librerias
-1) El retorno de alguna funcion de scikit no devuelve formato numpy sino dataframe o viceversa generando inconsistencia al colocarse X[indice] (numpy) vs X.iloc[indice] ó X.loc[indice] (pandas), por lo que deberá tenerse cuidado de manipular los elementos segun matriz (numpy) o dataframe (pandas).
+The return of some scikit function does not return numpy format but dataframe or vice versa, generating inconsistency when using X[index] (numpy) vs X.iloc[index] or X.loc[index] (pandas), so care should be taken to manipulate the elements according to matrix (numpy) or dataframe (pandas).
