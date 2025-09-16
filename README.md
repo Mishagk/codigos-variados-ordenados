@@ -18,6 +18,7 @@ Main sources consulted or from which material such as Python libraries, images, 
 - skforecast & statsmodel (For forecasting (time series) this is recommended - see notebook)
 - statsforecast
 - pyAF
+- HuggingFace
 - surprise (For recommendation systems this is recommended - see notebook)
 - tensorflow-recommenders
 - Keras-RL (Reinforcement Learning)
@@ -33,6 +34,14 @@ Main sources consulted or from which material such as Python libraries, images, 
 
 --------
 
-**Large Languaje Models (LLM)**
+**New (Added)**
 
-Use of Reinforcement Learning for Fine Tuning with LLM.
+Developments for personal learning and applications in Generative AI and in general AI was added into folders and python code. This shows different techniques and strategies for how to develop and train LLM, also how to develop methods into fine tuning of LLM and more. 
+
+Key topics in AI:
+- Develop LLM
+- Fine Tuning LLM (Using supervised or Reinforcement Learning)
+- Develop conversation tools
+- Techniques in Natural Language Processing
+
+NOTE: All the noteboks or code provided is only for personal learning and no comercial or industrial applications. Be careful when using the ideas and do not consider is ready to use into a product, the idea is just to share some ideas that were explored in python with the use of open-source libraries and models.
