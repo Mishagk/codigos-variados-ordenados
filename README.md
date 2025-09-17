@@ -1,6 +1,10 @@
 This repository contains a series of notebooks (jupyter notebook) with consolidated code from various materials that allow you to learn and apply libraries, techniques, methods, and models of Machine & Deep Learning. This repository does NOT have a profit-making purpose. Its purpose is open learning in order to help and promote the development of data-based applications and solutions through the examples within the exposed code.
 
+Everything in this repository has the main goal of developing code for self-learning and explore ideas into how to use and apply different libraries, techniques and new ideas. Nothing was done for industrial applications or selling code. 
+
 **Relevant**: The notebook number indicates whether it is recent or not, for example if we have the notebooks "4. Deep Learning" and "7. Catboost regression", the notebook with number 7 is the most recent addition to the repository.
+
+**Consideration**: New notebooks were added recently with no number, given the date of the commit into the main branch can be seen how old is the code.
 
 The codes are based on consultation of the library documentation, including its usage and examples, as well as books, forums, or blogs related to its application. In the notebooks, when specific data is used, there will be some way to locate the data from its source, that is, through a link to the source repository, the website, or even with the dataset name that could be searched on the internet or similar.
 
@@ -26,6 +30,7 @@ Main sources consulted or from which material such as Python libraries, images, 
 - YOLO model - Computer Vision (According to pre-trained models from Ultralytics)
 - other libraries/repositories/blogs/forums linked to the previous links
 - Datasets used from sites like Kaggle
+- Google web by doing search
 
 **Note**: In some cases, the code may need to be modified due to changes in newer versions of the libraries, generating some incompatibility that may cause an error when executed.
 **Caution**: Observed cases of potential errors in new versions of libraries
@@ -43,5 +48,6 @@ Key topics in AI:
 - Fine Tuning LLM (Using supervised or Reinforcement Learning)
 - Develop conversation tools
 - Techniques in Natural Language Processing
+- Computer Vision application with Ultralytics and Roboflow solutions
 
 NOTE: All the noteboks or code provided is only for personal learning and no comercial or industrial applications. Be careful when using the ideas and do not consider is ready to use into a product, the idea is just to share some ideas that were explored in python with the use of open-source libraries and models.
