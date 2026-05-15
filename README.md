@@ -44,7 +44,8 @@ Main sources consulted or from which material such as Python libraries, images, 
 Developments for personal learning and applications in Generative AI and in general AI was added into folders and python code. This shows different techniques and strategies for how to develop and train LLM, also how to develop methods into fine tuning of LLM and more. 
 
 Key topics in AI:
-- Develop LLM
+- Develop Agent with LLMs
+- Develop LLMs from scratch
 - Fine Tuning LLM (Using supervised or Reinforcement Learning)
 - Develop conversation tools
 - Techniques in Natural Language Processing
