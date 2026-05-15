@@ -37,7 +37,7 @@ Main sources consulted or from which material such as Python libraries, images, 
 
 **Important**: The return of some scikit function does not return numpy format but dataframe or vice versa, generating inconsistency when using X[index] (numpy) vs X.iloc[index] or X.loc[index] (pandas), so care should be taken to manipulate the elements according to matrix (numpy) or dataframe (pandas).
 
---------
+-----
 
 **New (Added)**
 
